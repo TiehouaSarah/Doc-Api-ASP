@@ -15,3 +15,6 @@ https://free-for.dev/#/
 
 #héberger gratuitement pendant......jours
 https://www.smarterasp.net/secured_signup?plantype=&affiliate=&dealcode=
+
+#publier un projet api en asp
+https://www.c-sharpcorner.com/UploadFile/3d39b4/publish-and-host-Asp-Net-web-api/
