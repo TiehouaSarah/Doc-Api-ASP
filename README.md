@@ -9,3 +9,9 @@ https://www.connectionstrings.com/sql-server/
 
 #lien pour  régler les correspondances de tables et modeles
 https://entityframework.net/knowledge-base/22666388/database-issue---an-error-occurred-while-executing-the-command-definition--see-the-inner-exception-for-details
+
+#lien quelconque qui me servira
+https://free-for.dev/#/
+
+#héberger gratuitement pendant......jours
+https://www.smarterasp.net/secured_signup?plantype=&affiliate=&dealcode=
