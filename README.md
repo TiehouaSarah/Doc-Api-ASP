@@ -18,3 +18,4 @@ https://www.smarterasp.net/secured_signup?plantype=&affiliate=&dealcode=
 
 #publier un projet api en asp
 https://www.c-sharpcorner.com/UploadFile/3d39b4/publish-and-host-Asp-Net-web-api/
+https://docs.microsoft.com/fr-fr/aspnet/web-forms/overview/deployment/visual-studio-web-deployment/deploying-to-iis
