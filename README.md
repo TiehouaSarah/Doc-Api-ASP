@@ -19,3 +19,6 @@ https://www.smarterasp.net/secured_signup?plantype=&affiliate=&dealcode=
 #publier un projet api en asp
 https://www.c-sharpcorner.com/UploadFile/3d39b4/publish-and-host-Asp-Net-web-api/
 https://docs.microsoft.com/fr-fr/aspnet/web-forms/overview/deployment/visual-studio-web-deployment/deploying-to-iis
+
+#Régler l'erreur d'affichage en faisant des poste/get/put/delete
+https://stackoverflow.com/questions/45415832/http-error-500-19-in-iis-10-and-visual-studio-2017
